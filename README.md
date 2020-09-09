@@ -1,4 +1,4 @@
-# Hi! I'm Nijii and this is my Github. 
+# Hi! I'm Nijii Daniels and this is my Github. :sunglasses:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NijiiD.NijiiD.readme)
 <br />
