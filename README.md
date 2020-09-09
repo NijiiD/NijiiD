@@ -2,5 +2,5 @@
 
 <br />
 
-<![](goku.gif) />
+![](goku.gif)
 
