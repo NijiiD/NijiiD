@@ -1,4 +1,6 @@
+### Hi! I'm Nijii and this is my Github. Welcome!
 
+<br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/1gVUhlXhETaRRxzeHO/giphy.gif.gif" />
 
 
