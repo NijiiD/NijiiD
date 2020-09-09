@@ -6,7 +6,8 @@
 ************
 > I'm Cloud App Dev student in the Microsoft SoftWare and Systems Academy. As you can see I'm also an anime nut.
 > After completing my Software Fundamentals 98-361 cerification, I wanted to learn more about C#, TSQL, ASP.NET and
-> all other areas of application development. So give me a follow and share so we can continue learn from each other!
+> all other areas of application development. So give me a follow and share my repository so we can continue learn 
+> from each other!
 
 "To know what you know and what you do not know, that is true knowledge."
 - Ralph Waldo Emerson
@@ -18,3 +19,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NijiiD)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![thanks](https://user-images.githubusercontent.com/68288691/92553416-df7bb580-f230-11ea-9777-2e3752679383.gif)
