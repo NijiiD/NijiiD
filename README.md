@@ -1,1 +1,1 @@
-https://gfycat.com/abandonedgreatblowfish-dragon-ball-super-ultra-instinct
+<img src = "https://gfycat.com/abandonedgreatblowfish-dragon-ball-super-ultra-instinct" width = "30px">
