@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/NijiiD/NijiiD/master/https://gfycat.com/abandonedgreatblowfish-dragon-ball-super-ultra-instinct.gif" width="30px">
+https://gfycat.com/abandonedgreatblowfish-dragon-ball-super-ultra-instinct
