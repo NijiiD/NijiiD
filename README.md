@@ -2,7 +2,7 @@
 
 <br />
 
-![](goku.gif)
+![](https://media.giphy.com/media/1gVUhlXhETaRRxzeHO/giphy.gif)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
