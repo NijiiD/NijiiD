@@ -1,13 +1,13 @@
-# Hi! I'm Nijii Daniels and this is my Github. :sunglasses:
+# Hi! I'm Nijii Daniels. Welcome to my Github! :sunglasses:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NijiiD.NijiiD.readme)
 <br />
-### WELCOME!
-************
-> I'm Cloud App Dev student in the Microsoft SoftWare and Systems Academy. As you can see I'm also an anime nut.
-> After completing my Software Fundamentals 98-361 cerification, I wanted to learn more about C#, TSQL, ASP.NET and
-> all other areas of application development. So give me a follow and share my repository so we can continue learn 
-> from each other!
+### About Me
+*****************
+> I'm a 11 year Army Veteran that has always had a passion for IT throughout my life.  I like to play sports, my instruments, and video games. 
+> As you can see I'm also an anime nut. Currently, I'm a Cloud App Dev student in the Microsoft SoftWare and Systems Academy. After completing 
+> my Software Fundamentals 98-361 cerification, I wanted to learn more about C#, TSQL, ASP.NET and all other areas of application development.
+> So give me a follow and share my repository so we can continue learn from each other!
 
 "To know what you know and what you do not know, that is true knowledge."
 - Ralph Waldo Emerson
